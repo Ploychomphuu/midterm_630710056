@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     var temper = Temperature();
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Temperature',
       theme: ThemeData(
 
         primarySwatch: Colors.indigo,

@@ -29,4 +29,4 @@ double doTem6(double c){ //เควิน-->ฟาเรน
   return numm;
 }
 
-}
+}//
